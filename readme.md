@@ -15,6 +15,10 @@ go version
 go env
 ```
 
+查看go变量
+```
+go env
+```
 设置go变量
 ```
 ## grammar
@@ -47,3 +51,6 @@ GOPATH=C:\Users\hasee\go
 ## go源码安装位置
 GOROOT=C:\Users\hasee\.go\go1.25.5.windows-amd64\go
 ```
+
+调试运行
+- F5
